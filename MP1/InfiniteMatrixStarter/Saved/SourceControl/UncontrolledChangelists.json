@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset",
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Cube.uasset",
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Cone_Blueprint.uasset",
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Crosshair.uasset",
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/Cube_Blueprint.uasset",
+				"C:/Users/Virtu/Downloads/InfiniteMatrixStarterProject/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/SM_HealthPack.uasset",
+				"E:/UE_5.3/Engine/Content/BasicShapes/Cube1.uasset"
+			]
+		}
+	]
+}

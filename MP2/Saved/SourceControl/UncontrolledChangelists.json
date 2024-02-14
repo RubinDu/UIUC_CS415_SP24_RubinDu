@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/MP2/Content/UI/WBP_Restart.uasset",
+				"E:/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"E:/MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"E:/MP2/Content/LearningKit_Games/Blueprints/Pickups/Healthpack_Blueprint.uasset",
+				"E:/MP2/Content/LearningKit_Games/Blueprints/Pickups/PowerUp_Pickup_BP_Child.uasset",
+				"E:/MP2/Content/LearningKit_Games/Blueprints/BaseClasses/Master_Pickup_BP.uasset",
+				"E:/MP2/Content/LearningKit_Games/Blueprints/Pickups/BP_HealthPack.uasset",
+				"E:/MP2/Content/LearningKit_Games/Blueprints/Pickups/BP_PickupScore.uasset",
+				"E:/MP2/Content/UI/WBP_Score.uasset",
+				"E:/MP2/Content/AI/Pursuer_AIController.uasset",
+				"E:/MP2/Content/AI/BP_Pursuer.uasset",
+				"E:/MP2/Content/AI/EAIState.uasset",
+				"E:/MP2/Content/AI/BP_Mortar.uasset",
+				"E:/MP2/Content/AI/BP_Shell.uasset",
+				"E:/MP2/Content/AI/BP_MortarEnemy.uasset",
+				"E:/MP2/Content/AI/BP_MortarShell.uasset",
+				"E:/MP2/Content/LearningKit_Robots/StaticMeshes/WorldDecor/BP_ImpulseEnemy.uasset",
+				"E:/MP2/Content/AI/BP_ImpulseEnemy.uasset",
+				"E:/MP2/Content/SM_TrafficBarrelA_Blueprint.uasset",
+				"E:/MP2/Content/AI/SM_TrafficBarrelA_Blueprint.uasset",
+				"E:/MP2/Content/LearningKit_Robots/StaticMeshes/WorldDecor/Mortar_Blueprint.uasset",
+				"E:/MP2/Content/AI/Mortar_Blueprint.uasset"
+			]
+		}
+	]
+}
